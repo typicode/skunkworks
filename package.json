@@ -59,7 +59,7 @@
     "lockfile-lint": "4.3.7"
   },
   "resolutions": {
-    "jest-changed-files": "~26.1.0"
+    "jest-changed-files": "~26.6.0"
   },
   "scarfSettings": {
     "enabled": false
