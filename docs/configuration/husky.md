@@ -14,7 +14,7 @@ Pseudocode
 - `pre-commit`: `lint-staged`
 - `pre-push`: `tsc`
 
-See `.huskyrc.json` for implementation.
+See `.husky` for implementation.
 
 ## Rationale
 
